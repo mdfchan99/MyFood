@@ -1,0 +1,8 @@
+.footer {
+  width: 100%;
+  background-color: #222;
+  color: white;
+  text-align: center;
+  padding: 15px 0;
+  margin-top: 20px; /* Adds spacing above the footer */
+}

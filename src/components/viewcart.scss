@@ -1,0 +1,22 @@
+$bgcolor: rgb(185, 130, 27);
+$textcolor: rgb(248, 248, 248);
+$fontsize: 18px;
+$borderradius: 9px;
+$border:0px;
+$hbgcolor:rgb(108, 74, 11);
+$buttonpointer:pointer;
+
+
+.removebtn{
+    background-color: $bgcolor;
+    color: $textcolor;
+    font-size: $fontsize;
+    border-radius: $borderradius;
+    border: $border;
+    cursor: $buttonpointer;
+    display:inline;
+    padding: 3px 8px ;
+}
+.removebtn:hover{
+    background-color: $hbgcolor;
+}
